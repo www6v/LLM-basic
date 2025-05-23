@@ -1,33 +1,33 @@
 # LLM-basic
-### Pytorch
+## Pytorch
 + core
 
-### Transformer
+## Transformer
 + MoE
 + SFT
 
-### RL
+## RL
 + PPO
 + GRPO
 + DPO
 
 
 
+## DeepSeek
+### R1
++ pre-train
+  - GRPO 
+    R1-zero like recurrent from scratch on Qwen 
 
-# R1
-### pre-train
-+ GRPO 
-  R1-zero like recurrent from scratch on Qwen 
++ post-training
+  - SFT for R1
+  - Distill for R1
 
-### post-training
-+ SFT for R1
-+ Distill for R1
+### V3
++ DeepSeek-V3 MoE from scratch  
 
-# V3
-### DeepSeek-V3 MoE from scratch  
-
-### MTP
-+ MTP on Qwen
++ MTP
+  - MTP on Qwen
 
 
 
