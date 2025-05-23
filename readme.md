@@ -3,14 +3,11 @@
 + core
 
 ## Transformer
-+ MoE
-+ SFT
 
-## RL
-+ PPO
-+ GRPO
-+ DPO
-
+## MoE
++ MoE on NPU
++ MoE from scratch
+ 
 ## DeepSeek
 ### R1
 + pre-train
@@ -34,3 +31,7 @@
 + [白盒]
 
 
+## RL
++ PPO
++ GRPO
++ DPO

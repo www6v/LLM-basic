@@ -1,2 +1,2 @@
 ### MoE on NPU(Huawei)
-from zomi
+up: zomi
