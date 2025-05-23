@@ -11,8 +11,6 @@
 + GRPO
 + DPO
 
-
-
 ## DeepSeek
 ### R1
 + pre-train
@@ -21,7 +19,8 @@
 
 + post-training
   - SFT for R1
-  - Distill for R1
+  - Distill for R1[黑盒]
+
 
 ### V3
 + DeepSeek-V3 MoE from scratch  
@@ -29,6 +28,9 @@
 + MTP
   - MTP on Qwen
 
++ MLA  
 
+### Knowledge Distillation
++ [白盒]
 
 
