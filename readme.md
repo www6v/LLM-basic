@@ -38,3 +38,7 @@
 
 
 ## personal_chatgpt
++ llama 源码阅读
++ LoRA & PEFT
++ TRL (Transformer Reinforcement Learning)
++ DL
